@@ -4,3 +4,4 @@ Alterando no remote.
 # Segundo.
 Revisando os comandos do Git.
 Novo teste de uso do git.
+Novo teste.
